@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarikheleg
 - 👀 I’m interested in Android/iOS development
-- 🌱 I’m currently learning React and Angular enterprise app development
+- 🌱 I’m currently learning React and ASP.NET
 <!--- - 📫 How to reach me ...
 --->
 <!---
